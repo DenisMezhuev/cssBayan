@@ -162,13 +162,6 @@ color:black;
 }
 
 
-
-
-
-
-
-
-
 @media (min-width: 568px) and (max-width: 820px){
 
     body{
@@ -255,8 +248,6 @@ color:black;
 
 }
 
-
-
 @media (max-width: 567px){
 
     body{
@@ -326,16 +317,10 @@ color:black;
     
     .text-h1 h1{
         font-size: 14px;
-        font-weight: 800;
         margin: 10px 0;
     
     }
-    
-    .xmark{
-        width: 15px;
-        height: 15px;
-    }
-    
+       
     .content-text{
         font-size: 10px;
         font-weight: 800;
